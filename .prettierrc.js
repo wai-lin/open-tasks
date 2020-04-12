@@ -1,5 +1,7 @@
 module.exports = {
   singleQuote: true,
-  trailingComma: true,
+  trailingComma: 'all',
   semi: false,
-};
+  arrowParens: 'always',
+  vueIndentScriptAndStyle: true,
+}
